@@ -1,0 +1,26 @@
+{
+  "name": "@jakelowen/sqorn-graphql-filters",
+  "version": "0.1.0",
+  "repository": "jakelowen/sqorn-graphql-filters",
+  "main": "lib/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "lodash.get": "^4.4.2",
+    "lodash.keys": "^4.2.0",
+    "lodash.map": "^4.6.0"
+  },
+  "scripts": {
+    "test": "jest --detectOpenHandles --runInBand --forceExit"
+  },
+  "tags": [
+    "graphql",
+    "sqorn",
+    "postgresql"
+  ],
+  "devDependencies": {
+    "@sqorn/pg": "^0.0.45",
+    "faker": "^4.1.0",
+    "jest": "^24.1.0",
+    "pg": "^7.8.0"
+  }
+}
