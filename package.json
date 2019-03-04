@@ -7,7 +7,8 @@
   "dependencies": {
     "lodash.get": "^4.4.2",
     "lodash.keys": "^4.2.0",
-    "lodash.map": "^4.6.0"
+    "lodash.map": "^4.6.0",
+    "lodash.snakecase": "^4.1.1"
   },
   "scripts": {
     "test": "jest --detectOpenHandles --runInBand --forceExit"
