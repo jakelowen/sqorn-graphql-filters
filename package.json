@@ -6,6 +6,7 @@
   "license": "MIT",
   "dependencies": {
     "dataloader": "^1.4.0",
+    "lodash": "^4.17.11",
     "lodash.get": "^4.4.2",
     "lodash.groupby": "^4.6.0",
     "lodash.includes": "^4.3.0",
