@@ -1,6 +1,6 @@
 {
   "name": "@jakelowen/sqorn-graphql-filters",
-  "version": "0.4.4",
+  "version": "0.4.5",
   "repository": "jakelowen/sqorn-graphql-filters",
   "main": "lib/index.js",
   "license": "MIT",
